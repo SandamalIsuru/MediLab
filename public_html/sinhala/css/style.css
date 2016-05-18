@@ -1,0 +1,287 @@
+
+/*
+ **********
+ *=header
+ **********
+*/
+
+.login #trans{
+	
+	font-size: 20px;
+	color: black;
+	background-color: #359edf;
+	
+	
+}
+.login #trans:hover{
+	color: white;
+}
+
+
+body{
+	background: url(../img/body.jpg) no-repeat;
+	background-attachment: fixed;
+}
+
+#FailureText{
+	color:#C00;
+	margin-left:50px;
+	font-size:14px;
+}
+
+.login #trans{
+	
+	font-size: 18px;
+	color: #330000;
+	
+}
+
+
+#singout{
+	
+	text-decoration:none;	
+}
+.logout{
+	float:right;
+	margin-top:70px;
+	margin-right:0px;
+	opacity: 0.9;
+	font-size:18px;
+	
+}
+
+
+header h1{
+	background: url(../img/new.png) no-repeat;
+	width:450px;
+	height: 100px;
+	margin: 10px 10px 22px;
+	
+	
+	
+	float: left;
+	text-indent: -9999px;
+}
+
+header{
+	overflow: hidden;
+}
+/*
+ **********
+ =login form
+ **********
+*/
+
+.login{
+    width: 400px;
+    height: 150px;
+    //background:url(../img/signbac.jpg);
+    font-family: Candara;
+    color: rgba(0,0,0,.6);
+    float:right;
+    opacity: 0.9;
+    
+}
+
+.login h2{
+	color:black;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+#singout:hover{
+	color:#000000;
+	font-size:20px;
+}
+#singout{
+	text-decoration:none;	
+}
+
+form input{
+    display: inline;
+    font-family: Candara;
+    font-size: 18px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    padding-right: 10px;
+    color: black;
+     border-radius: 5px;
+    border-color: rgba(0,0,1,.5);
+    
+    
+}
+form #text{
+    padding-right: 0px;
+    background-color:rgba(0, 0, 0, 0);
+    color:black;
+    border: 1px solid black;
+    
+   // height:30px;
+    transition:height 1s;
+    -webkit-transition:height 1s;
+    
+    
+}
+
+
+form #pass{
+    
+     padding-right: 0px;
+     padding-right: 0px;
+    background-color:rgba(0, 0, 0, 0);
+    color:black;
+    border: 1px solid black;
+    
+    //height:30px;
+    transition:height 1s;
+    -webkit-transition:height 1s;
+    
+}
+
+form #but1{
+    padding-top:3px;
+    padding-bottom: 3px;
+    padding-left: 2px;
+    margin-left: 2px;
+    background-color:rgba(0, 0, 0, 0);
+    color:black;
+    border: 1px solid black;
+    
+}
+#but1:hover{
+	background: #359edf;
+	color: white;
+}
+    
+
+
+
+/*
+ **********
+ =nav
+ **********
+*/
+
+nav{
+	clear: both;
+	float:left;
+	margin-top:20px;
+	
+	
+	
+}
+
+.c1,.c2,.c3,.c4,.c5,.c6{
+    display: inline;
+    font-size: 22px;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-family:Candara;
+    
+    
+    
+}
+
+
+nav a{
+    color: #313131;
+    text-decoration: none;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid #359edf;
+    border-radius: 10px;
+}
+nav a:hover,.selected{
+    color: white;
+    background: #359edf;
+    transition: 0.5s;
+}
+
+
+
+
+
+/*
+ **********
+ *=main
+ **********
+*/
+
+.main{
+	margin-top: 20px;
+	font-family: candara;
+	font-size: 17px;
+	line-height: 20px;
+	text-align:justify;
+}
+.main h2{
+	
+	font-size: 28px;
+	
+}
+.main ul{
+	line-height: 45px;
+}
+
+.button{
+	background: #242324;
+	padding:6px;
+	color: #e24ee4;
+	text-decoration: none;
+	
+}
+p{
+	font-size: 13px;
+	line-height: 24px;
+	color:black;
+}
+.button:hover{
+	color: white;
+}
+
+/*
+ **********
+ *=footer
+ **********
+*/
+
+footer{
+	clear: both;
+}
+
+.line1,.line2{
+	font-family: candara;
+	font-size: 15px;
+	color: #313131;
+}
+.line1{
+	border-top: 2px solid #313131;
+}
+
+
+.goBack{
+	font-size: 18px;
+	font-family: candara;
+	
+	border: 2px solid #359edf;
+	width: 80px;
+	border-radius: 3px;
+	text-align: center;
+
+}
+
+.goBack a{
+	text-decoration: none;
+	color: black;
+}
+.goBack a:hover{
+	text-decoration: none;
+	color: white;
+
+}
+.goBack:hover{
+	background-color:#359edf;
+}

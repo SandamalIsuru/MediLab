@@ -1,0 +1,40 @@
+input{
+	margin-bottom:20px;
+}
+
+#details{
+	height: 100px;
+	width: 300px;
+	background: #fff;
+	margin-left: 65px;
+	font-family: candara;
+	font-size: 16px;
+}
+
+
+#submit{
+	background: #253456;
+	color: white;
+}
+
+#submit:hover{
+	background:#359edf;
+	color: #fff;
+	border-radius: 5px;
+}
+
+.foot{
+	margin-top: 80px;
+}
+
+.message {
+            font-family: candara;
+            color: #00AAE9;
+            font-size: 17px;
+        }
+
+        .error {
+            font-family: candara;
+            color: #E70000;
+            font-size: 17px;
+        }

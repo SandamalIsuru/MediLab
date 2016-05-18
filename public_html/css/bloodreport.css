@@ -1,0 +1,14 @@
+.third{
+    margin-top: 30px;
+}
+
+#but1{
+	display: none;
+}
+
+#desc{
+	color: #313131;
+	opacity: 0.4;
+	font-style: italic;
+	font-size: 18px;
+}

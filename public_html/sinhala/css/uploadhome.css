@@ -1,0 +1,37 @@
+.grid_10{
+    border-top: 2px solid #313131;
+}
+
+.grid_6{
+    font-family: candara;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+.grid_6 h1{
+    margin-left: 25px;
+    color: #652125;
+}
+
+.grid_6 ul{
+    margin-left: 15px;
+    line-height:2em;
+}
+
+.grid_6 a{
+    color: #0dbed2;
+}
+.grid_6 a:hover{
+    color: #080808;
+}
+
+.grid_8{
+    float:right;
+   
+}
+
+.grid_8 #back{
+    margin-left: 180px;
+    margin-top: 50px;
+}
+

@@ -1,0 +1,38 @@
+.mid{
+    font-family: candara;
+    font-size: 20px;
+	margin-top:20px;
+}
+
+ h2{
+    font-family: candara;
+    font-size: 20px;
+}
+
+p{
+    font-family: candara;
+    
+}
+#logout,#username{
+    font-size: 20px;
+    color:black;
+    
+    
+}
+
+.logininside{
+   
+   margin-top: 50px;
+}
+
+#singout{
+    margin-left: 20px;
+    font-size: 17px;
+    color: #313131;
+    text-decoration: none;
+    
+}
+
+.TT p{
+    font-size: 15px;
+    color: black;

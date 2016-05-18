@@ -1,0 +1,12 @@
+.process table{
+	font-family: candara;
+	font-size: 18px;
+	margin-left: 100px;
+
+
+}
+
+.process table td{
+	border: 2px solid black;
+	text-align: center;
+}

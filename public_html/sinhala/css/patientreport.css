@@ -1,0 +1,102 @@
+/*
+*=
+********
+ main nav selected tab color change
+*******
+*/
+.grid_6{
+	margin-top: 10px;
+}
+
+.main nav .selected{
+    color: white;
+}
+
+.L2{
+
+    background: #359edf;
+}
+
+.blood,.urine{
+	margin-left: 0px;
+	//background: red;
+	font-family: candara;
+	font-size: 22px;
+	padding: 25px;
+	text-align: center;
+	
+	
+}
+
+#b,#u{
+	
+	border: 1px solid #359edf;
+	padding: 25px;
+	text-decoration: none;
+	border-radius: 5px;
+	color: black;
+	
+}
+#b:hover,#u:hover,.selected{
+	color:white;
+	background: #359edf;
+	transition:0.5s;
+}
+
+
+
+input{
+    display: inline;
+    font-family: Candara;
+    font-size: 18px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+    color: #313131;
+    border-radius: 5px;
+    border-color: rgba(0,0,0.7,.6);
+    border-style:groove;
+    width: 175px;
+    position: relative;
+    
+}
+#back{
+	margin-top: 45px;
+	margin-left: 400px;
+	background: white;
+	width: 100px;
+}
+
+#back:hover{
+ border-top-color: #e83c15;
+   background: #e83c15;
+   color: #ccc;
+}
+
+table, th, td {
+   border: 1px solid white;
+   text-align: center;
+   font-family: candara;
+}
+
+table{
+	margin-left: 150px;
+	margin-top: 50px;
+}
+td{
+	background: #359edf;
+	color: white;
+	font-size: 18px;
+	height: 10px;
+}
+
+td a{
+	color: white;
+}
+
+td a:hover{
+	color: black;
+}

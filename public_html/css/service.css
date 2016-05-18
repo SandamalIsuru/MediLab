@@ -1,0 +1,66 @@
+.Image{
+    background: url("../img/2.jpg");
+    height:360px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+
+/*
+ **********
+ *=middle
+ **********
+*/
+
+.middle,.point{
+	font-family: candara;
+	font-size: 17px;
+	line-height: 20px;
+	text-align: justify;
+
+}
+.middle h2{
+	font-size: 28px;
+}
+
+.point{
+	line-height: 25px;
+	float: left;
+
+}
+
+.Image2{
+    
+	background:url("../img/banner.png");
+	height: 257px;
+
+}
+
+
+/*
+ **********
+ *=service logout page style
+ **********
+*/
+
+#logout,#username{
+    font-size: 20px;
+    color:black;
+    
+    
+}
+.logininside{
+   
+   margin-top: 50px;
+}
+
+#singout{
+    margin-left: 20px;
+    font-size: 17px;
+    color: #313131;
+    text-decoration: none;
+    
+}
+

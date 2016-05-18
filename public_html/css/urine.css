@@ -1,0 +1,80 @@
+/*
+ *******
+ *******
+Main
+********
+*/
+
+.main{
+   padding-top: 18px;
+   
+  
+}
+
+.grid_10{
+   border-top: 2px solid #313131;
+   border-bottom: 2px solid #313131;
+   padding-top: 12px;
+}
+.grid_8 label{
+   font-size: 16px;
+   position: absolute;
+   padding-top: 8px;
+    
+}
+
+.second{
+   //margin-left: 100px;
+   
+}
+
+.grid_8{
+  
+}
+.grid_8 #title{
+   padding-left: 250px;
+   text-decoration: underline;
+   color: #313536;
+}
+
+.third label{
+   position: absolute;
+   margin-left: 10px;
+}
+input{
+   margin-left: 150px;
+   font-size: 16px;
+   margin-top: 0px;
+   padding-top: 8px;
+   
+}
+
+#Lname{
+   width: 200px;
+}
+
+#ph,#sugar,#bile{
+   width:60px;
+}
+
+.grid_8 #cd{
+   text-decoration: underline;
+   margin-left: 50px;
+   font-size: 18px;
+   font-style: italic;
+}
+.grid_8 #dateL{
+   margin-left: 10px;
+}
+.grid_8 #date{
+   margin-left: 60px;
+}
+
+
+.fourth label{
+   margin-left: 100px;
+}
+
+.fourth input{
+   margin-left: 200px;
+}

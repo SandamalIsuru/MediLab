@@ -1,0 +1,136 @@
+.PR{
+   
+   float: right;
+   margin-right: 160px;
+   margin-top: 26px;
+   font-family: candara;
+   
+}
+.PR h2{
+   font-size:40px;
+   letter-spacing: 3px;
+}
+
+.grid_10{
+	margin-top: 25px;
+	border: 1px solid;
+	
+	height: 100px;
+
+}
+
+.grid_12{
+	margin-top:15px;
+	border: 3px #313131 solid;
+	border-radius: 5px;
+}
+
+.grid_4{
+	
+	margin-top: 85px;
+	margin-right: 10px;
+
+
+
+}
+
+.right{
+	padding-left: 250px;
+
+}
+#box{
+	border: 1px solid;
+	border-radius: 5px;
+	font-family: candara;
+	font-size: 25px;
+	margin-left: 50px;
+	height: 55px;
+	width: 200px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 20px;
+	
+
+}
+
+#addD,#addL,#backup{
+	//background: red;
+	color: black;
+	text-decoration: none;
+	padding: 20px;
+
+	
+	
+
+	
+
+}
+
+#addD:hover,#addL:hover{
+	color: white;
+
+}
+
+#box:hover,#backup:hover{
+	
+	background: #359edf;
+	transition: 0.5s;
+}
+#backup{
+
+}
+.container_12 footer{
+	margin-top: 250px;
+	margin-right: 0px;
+}
+
+footer .grid_4{
+	margin-top: 10px;
+}
+
+ul li{
+	height: 100px;
+	list-style: none;
+}
+
+.benifit li{
+	list-style-type: disc;
+	margin-left: 0px;
+	height: 40px;
+	line-height: 15px;
+	text-align: justify;
+	color: blue;
+}
+.labt{
+	text-align: center;
+	
+}
+
+
+
+.pr h3{
+	font-size: 25px;
+	
+}
+
+
+.ques{
+	font-family: candara;
+	padding: 5px;
+}
+
+.ques p{
+	font-size: 15px;
+}
+
+.ques li{
+	list-style-type: disc;
+	
+	height: 40px;
+	line-height: 15px;
+	text-align: justify;
+	color: black;
+	margin-left: 20px;
+	font-size: 17px;
+	margin-bottom: 10px;
+}
